@@ -76,7 +76,7 @@ main > .promotion {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 10px;
 }
 
 .articles > article {
